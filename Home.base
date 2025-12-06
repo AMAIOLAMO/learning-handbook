@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+  - type: list
+    name: View
+    order:
+      - file.name
+      - file.backlinks
+      - file.tags
+    imageAspectRatio: 0.95
