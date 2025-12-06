@@ -1,5 +1,3 @@
-
-Choosing a topic:
 1. something that is hard, but not too hard
    rule of thumb ->
       hard = can solve, takes time, gets you really thinking

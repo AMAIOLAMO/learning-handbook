@@ -1,10 +1,8 @@
+#### Constant Reflection
+- Constant reflection after practice and theoretical study. Write down what you feel confused, and what you don't know. Really. WRITE IT DOWN.
 
-After practice / study:
-Constant reflection after practice and theoretical study. Write down what you deel confused, and what you dont know.
+Utilizing the things you wrote down during your reflection, plan for your next action.
 
-Using the previous practice confusions writings, focus on those.
-
-  Optimization of practice: u know one topic is good already, so u can do katas, where the problem is replicable, but the main focus when solving it is to see different ways, to observe, improve and optimize your mental model.
 
   Measure performance:
   1. Self tests: forced recall
