@@ -1,7 +1,7 @@
 write down your thoughts, questions and confusions during practice. You can see yourself in an ineffective loop, and quickly prevent that.
 
 #### Create visualizations
-- mind maps, drawings, find stock images, do it slow, step by step.
+- **mind maps, drawings, find stock images, do it slow, step by step**.
 
 Give yourself ~**30 minutes** of time of getting stuck, NOT TOTAL TIME OF PRACTICE, before checking out solutions.
 

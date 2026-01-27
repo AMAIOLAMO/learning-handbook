@@ -12,3 +12,22 @@ Prevent Burnout: Stop when tired, when bored. It's easy to feel bored on the sam
 
 Prevent Bored-out: Stop when it starts to feel repetitive, try to make it interesting if you want to continue, put something new, something slightly different to make it engaging. Or just increase difficulty.
 
+#### Executive Functions
+This refers to a list of things 
+
+
+POSITIVE:
+P - Planning
+O - Organization
+S - Self-Management
+I - Inhibition
+T - Time Management
+I - Initiation (of difficult tasks)
+V - Visualize (non working memory)
+E - Evaluate (priorities)
+
+
+Learn from Adele Diamond, PhD
+https://acf.gov/sites/default/files/documents/opre/diamond_adele_plenary.pdf
+https://www.psychologie.uzh.ch/dam/jcr:b93485f4-7120-4fe4-9a5b-39a84f4e07e6/Diamond.AnnRevPsych.2013.pdf
+
